@@ -26,6 +26,7 @@ Este sistema foi desenvolvido para gerenciar vendas em uma loja de games, oferec
 - **Java JDK 8** ou superior instalado.
 
 ### Diagrama de Classe
+![Funcionamento do Sistema](LojaGamesBD.png)
 
 
 ### Clonar o Repositório
