@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Vendas em Loja de Periféricos
 
-https://github.com/RainWUV/LojasdeGames/blob/main/Videoapresenta%C3%A7%C3%A3o.gif
+![Funcionamento do Sistema](Videoapresentação.gif)
 
 ## Descrição
 
