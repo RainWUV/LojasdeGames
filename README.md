@@ -28,5 +28,4 @@ Este sistema foi desenvolvido para gerenciar vendas em uma loja de periféricos.
 ### Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+https://github.com/RainWUV/LojasdeGames/tree/main
